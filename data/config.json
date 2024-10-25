@@ -1,0 +1,98 @@
+{
+  "communityName": "GDG Durgapur",
+  "communityLocation": {
+    "country": "India",
+    "city": "Durgapur"
+  },
+  "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-durgapur/",
+    "website": "https://gdg.community.dev/gdg-durgapur/",
+    "instagram": "https://www.instagram.com/gdg.durgapur",
+    "linkedin": "https://www.linkedin.com/company/gdgdurgapur/mycompany/",
+    "youtube": "https://www.youtube.com/@gdgdurgapur"
+  },
+  "eventInfo": {
+    "name": "DevFest Durgapur 2024",
+    "date": "Nov 24, 2024",
+    "time": "9 AM - 5 PM IST",
+    "venue": {
+      "address": "Durgapur",
+      "map_link": "https://maps.app.goo.gl/ktgoa8TPa5HuaRbz9"
+    },
+    "registeration": {
+      "link": "https://gdg.community.dev/",
+      "end_date": "2024-10-25"
+    },
+    "description": {
+      "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
+      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+    },
+    "stats": [
+      {
+        "name": "Speakers",
+        "value": "23+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "200+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Sessions",
+        "value": "10+",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "2+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+    ],
+    "whatToExpect": [
+      {
+        "title": "Networking Opportunities",
+        "description": "Connect with like-minded developers, industry leaders, and Google experts to expand your professional network and collaborate on projects."
+      },
+      {
+        "title": "Career Guidance",
+        "description": "Get advice from industry professionals and Google experts on how to advance your career in tech, including resume reviews, interview tips, and career paths."
+      },
+      {
+        "title": "Community Engagement",
+        "description": "Engage with the vibrant Google Developer Groups community, participate in interactive sessions, and explore ways to contribute to open-source projects."
+      }
+    ],
+    "pastDevFest": {
+      "summery": "DevFest 2023, organized by GDG Durgapur, was a major tech event that brought together developers, tech enthusiasts, and industry experts for a day of learning and networking. The event featured insightful sessions on cutting-edge technologies, workshops, and hands-on coding activities. It provided an excellent platform for participants to explore topics like AI, cloud computing, and web development. DevFest 2023 fostered community engagement and inspired developers to innovate, collaborate, and grow within the tech ecosystem.",
+      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "23+"
+        },
+        {
+          "name": "Participants",
+          "value": "200+"
+        },
+        {
+          "name": "Sessions",
+          "value": "10+"
+        },
+        {
+          "name": "Workshops",
+          "value": "2+"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://gdg.community.dev"
+  }
+}
