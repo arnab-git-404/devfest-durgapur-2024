@@ -26,21 +26,18 @@
         </p>
 
         <v-btn
-          rounded
-          size="large"
-          color="#FFD427"
-          v-if="
-            mainData.eventInfo &&
-            mainData.eventInfo.registeration.link.length &&
-            new Date(mainData.eventInfo.registeration.end_date) > new Date()
-          "
-          :href="mainData.eventInfo.registeration.link"
-          class="my-4 mt-3"
-          target="_blank"
-          style="border: 1.5px solid #1e1e1e; color: black"
-          variant="flat"
-          >Register Now</v-btn
-        >
+  rounded
+  size="large"
+  color="#FFD427"
+  :href="mainData.eventInfo.registeration.link"
+  class="my-4 mt-3"
+  target="_blank"
+  style="border: 1.5px solid #1e1e1e; color: black"
+  variant="flat"
+>
+  Register Now
+</v-btn>
+
       </v-col>
       <v-col md="6" sm="6" cols="12">
         <v-img

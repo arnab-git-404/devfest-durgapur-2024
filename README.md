@@ -61,6 +61,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Contributing
 Awesome! We would greatly appreciate it if you could contribute to all kinds. To help smoothen the process we have a few non-exhaustive guidelines to follow which should get you going in no time.
+yup
 
 ## LICENSE
 Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2024/blob/main/LICENSE)
