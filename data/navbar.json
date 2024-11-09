@@ -15,11 +15,6 @@
     "visible": true
   },
   {
-    "name": "Badge",
-    "path": "/badge",
-    "visible": true
-  },
-  {
     "name": "Team",
     "path": "/team",
     "visible": true
