@@ -25,8 +25,8 @@
       "end_date": "2024-10-25"
     },
     "description": {
-      "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
-      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+      "short": "Ignite Your Development Journey by Google Developer Group. Join a global community of developers for a day of inspiration, learning, and connection. Dive deep into the latest technologies, experiment with cutting-edge tools, and network with like-minded peers.",
+      "long": "Ignite Your Development Journey by Google Developer Group. Join a global community of developers for a day of inspiration, learning, and connection. Dive deep into the latest technologies, experiment with cutting-edge tools, and network with like-minded peers."
     },
     "stats": [
       {
@@ -69,7 +69,7 @@
       }
     ],
     "pastDevFest": {
-      "summery": "DevFest 2023, organized by GDG Durgapur, was a major tech event that brought together developers, tech enthusiasts, and industry experts for a day of learning and networking. The event featured insightful sessions on cutting-edge technologies, workshops, and hands-on coding activities. It provided an excellent platform for participants to explore topics like AI, cloud computing, and web development. DevFest 2023 fostered community engagement and inspired developers to innovate, collaborate, and grow within the tech ecosystem.",
+      "summery": "DevFest 2023, a premier tech event organized by GDG Durgapur, united developers, tech enthusiasts, and industry experts for a day of knowledge sharing and networking. The event featured insightful sessions on cutting-edge technologies, interactive workshops, and hands-on coding activities. Participants had the opportunity to explore topics like AI, cloud computing, and web development. DevFest 2023 fostered a vibrant community and inspired developers to innovate, collaborate, and grow within the dynamic tech ecosystem.",
       "images": ["img1.jpeg", "img2.JPG", "img3.JPG"],
       "stats": [
         {
