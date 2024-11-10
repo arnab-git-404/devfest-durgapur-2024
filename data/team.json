@@ -12,7 +12,8 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/soumyaditya-bauri-0bb492205"
     },
-    "type": "Graphics"
+    "type": "Core",
+    "teamCategory": "Organizer"
   },
   {
     "id": "6002",
@@ -27,7 +28,8 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core",
+    "teamCategory": "Organizer"
   },
     {
     "id": "6001",
@@ -42,7 +44,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/arnab000"
     },
-    "type": "Graphics"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -87,7 +89,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/ronit-singha-79a536290"
     },
-    "type": "Management "
+    "type": "Core "
   },
   {
     "id": "6002",
@@ -102,7 +104,7 @@
     "social": {
       "linkedin": "http://www.linkedin.com/in/subhajit-gorai"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -117,7 +119,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/oishi-sen-29538222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -132,7 +134,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -147,7 +149,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -162,7 +164,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -177,7 +179,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -192,7 +194,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   },
   {
     "id": "6002",
@@ -207,6 +209,6 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Web"
+    "type": "Core"
   }
 ]
