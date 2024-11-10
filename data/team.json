@@ -29,6 +29,21 @@
     },
     "type": "Web"
   },
+    {
+    "id": "6001",
+    "name": "Arnab Mukherjee",
+    "company": {
+      "name": "GDG On Campus BCET",
+      "designation": "Organizer"
+    },
+    "community_title": "Community Member",
+    "image": "NiL",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/arnab000"
+    },
+    "type": "Graphics"
+  },
   {
     "id": "6002",
     "name": "Amar Mahato",
