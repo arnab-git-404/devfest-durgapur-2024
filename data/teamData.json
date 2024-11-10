@@ -1,1 +1,215 @@
 
+[
+  {
+    "id": "6001",
+    "name": "Soumyadtiya Bauri",
+    "company": {
+      "name": "GDG On Campus BCREC",
+      "designation": "Cloud Lead"
+    },
+    "community_title": "Community Member",
+    "image": "soumo.jpg",
+    "bio": "Code to Create ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/soumyaditya-bauri-0bb492205"
+    },
+    "type": "Core",
+    "teamCategory": "Organizer"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core",
+    "teamCategory": "Organizer"
+  },
+    {
+    "id": "6001",
+    "name": "Arnab Mukherjee",
+    "company": {
+      "name": "GDG On Campus BCET",
+      "designation": "Organizer"
+    },
+    "community_title": "Community Member",
+    "image": "NiL",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/arnab000"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Amar Mahato",
+    "company": {
+      "name": "Dr. B.C Roy Engineering College ",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "amar.jpg",
+    "bio": "I admire simple code",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/amar-mahato-7b915725b/"
+    },
+    "type": "Graphics"
+  },
+  {
+    "id": "6002",
+    "name": "Survi Mukherjee",
+    "company": {
+      "name": "Dr. B.C Roy Engineering College",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "survi.png",
+    "bio": "My name is Survi Mukherjee, and I am a 3rd-year student in the Computer Science and Engineering department at Dr. B.C. Roy Engineering College. I possess a strong foundation in various technical skills, which I continually refine through hands-on projects and internships. Additionally, I am actively involved in the GDG tech community.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/survi-mukherjee-8302272a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Outreach"
+  },
+  {
+    "id": "6002",
+    "name": "RONIT SINGHA",
+    "company": {
+      "name": "Dr. B.C Roy Engineering College",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "ronit.jpg",
+    "bio": "I am a final year student of computer science and engineering Persuing BTECH in DR.B.C.ROY ENGINEERING COLLEGE DURGAPUR ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ronit-singha-79a536290"
+    },
+    "type": "Core "
+  },
+  {
+    "id": "6002",
+    "name": "Subhajit Gorai",
+    "company": {
+      "name": "Weekday (YC W21)",
+      "designation": "Product Manager"
+    },
+    "community_title": "Community Member",
+    "image": "Subhajit.jpeg",
+    "bio": "i run experiments ",
+    "social": {
+      "linkedin": "http://www.linkedin.com/in/subhajit-gorai"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Oishi Sen",
+    "company": {
+      "name": "CDAC",
+      "designation": "ML Intern"
+    },
+    "community_title": "Community Member",
+    "image": "oishi.jpg",
+    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/oishi-sen-29538222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core"
+  }
+]
