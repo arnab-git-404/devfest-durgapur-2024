@@ -64,26 +64,26 @@ const designTeam = computed(() => teamData.filter(member => member.teamCategory 
 const outreachTeam = computed(() => teamData.filter(member => member.teamCategory === 'Outreach'));
 
 definePageMeta({
-  layout: 'default', // Optional: Use the default layout if you want to stick with the default layout
+  layout: false,
 });
 
 useSeoMeta({
   contentType: "text/html; charset=utf-8",
-  title: `Team - ${mainData.eventInfo.name} | ${mainData.communityName}`,
+  title: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
-  ogLocale: 'en_US',
+  ogLocale:'en_US',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
-  ogTitle: `Team - ${mainData.eventInfo.name} | ${mainData.communityName}`,
+  ogTitle: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
-  ogImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  ogImage: ${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024,
   ogUrl: mainData.seo.hostUrl,
   ogType: "website",
-  twitterTitle: `Team - ${mainData.eventInfo.name} | ${mainData.communityName}`,
+  twitterTitle: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
   twitterDescription: mainData.eventInfo.description.short,
-  twitterImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  twitterImage: ${mainData.seo.hostUrl}thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024,
   twitterCard: "summary_large_image",
 });
 </script>
