@@ -17,7 +17,7 @@
   },
 {
     "id": "6002",
-    "name": "Aninda",
+    "name": "xyz",
     "company": {
       "name": "xyz",
       "designation": "xyz"
@@ -60,7 +60,8 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/arnab000"
     },
-    "type": "Core"
+    "type": "Core",
+    "teamCategory": "Web"
   },
   {
     "id": "6001",
