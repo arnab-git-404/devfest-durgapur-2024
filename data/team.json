@@ -19,6 +19,25 @@
     "teamCategory": "Organizer"
   },
   {
+    "id": "6001",
+    "name": "Vrijraj Singh",
+    "company": {
+      "name": "OSS Labs Community",
+      "designation": "Developer"
+    },
+    "community_title": "Google Developer Expert for Firebase",
+    "image": "soumo.jpg",
+    "bio": "Vrijraj is a dedicated CTO at agprop...",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
+      "twitter": "https://twitter.com/SVrijraj",
+      "github": "https://github.com/vrijraj",
+      "web": "https://vrijraj.xyz/"
+    },
+    "type": "Core",
+    "teamCategory": "Organizer"
+  },
+  {
     "id": "6002",
     "name": "Shivam Singh",
     "company": {
