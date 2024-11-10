@@ -25,6 +25,10 @@
 
 <script setup>
 const { teamData, mainData } = useJSONData();
+  const organizerTeam = computed(() => teamData.filter(member => member.teamCategory === 'Organizer'));
+const webTeam = computed(() => teamData.filter(member => member.teamCategory === 'Web'));
+const designTeam = computed(() => teamData.filter(member => member.teamCategory === 'Design'));
+const outreachTeam = computed(() => teamData.filter(member => member.teamCategory === 'Outreach'));
 definePageMeta({
   layout: false,
 });
