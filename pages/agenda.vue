@@ -10,6 +10,7 @@
             calendar so that you don't miss out on any sessions.
           </p>
         </v-col>
+        <h1>---------------------------Its gonna be decided soon---------------------------</h1>
       </v-row>
       <ClientOnly>
         <v-row class="mb-7">
