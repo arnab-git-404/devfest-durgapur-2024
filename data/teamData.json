@@ -1,38 +1,53 @@
 
-[
-  {
-    "id": "6001",
-    "name": "Soumyadtiya Bauri",
+[  {
+    "id": "6002",
+    "name": "Oishi Sen",
     "company": {
-      "name": "GDG On Campus BCREC",
-      "designation": "Cloud Lead"
+      "name": "CDAC",
+      "designation": "ML Intern"
     },
     "community_title": "Community Member",
-    "image": "soumo.jpg",
-    "bio": "Code to Create ",
+    "image": "oishi.jpg",
+    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/soumyaditya-bauri-0bb492205"
+      "linkedin": "https://www.linkedin.com/in/oishi-sen-29538222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     "type": "Core",
-    "teamCategory": "Organizer"
+  "teamCategory": "Organizer"
+  },
+{
+    "id": "6002",
+    "name": "Aninda",
+    "company": {
+      "name": "xyz",
+      "designation": "xyz"
+    },
+    "community_title": "Community Member",
+    "image": "",
+    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
+    "social": {
+      "linkedin": ""
+    },
+    "type": "Core",
+  "teamCategory": "Organizer"
   },
   {
     "id": "6002",
-    "name": "Nachiketa Pahari",
+    "name": "xyz",
     "company": {
-      "name": "Nshm knowledge campus",
-      "designation": "Student"
+      "name": "xyz",
+      "designation": "xyz"
     },
     "community_title": "Community Member",
-    "image": "demo",
-    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "image": "",
+    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      "linkedin": "https://www.linkedin.com/in/"
     },
     "type": "Core",
-    "teamCategory": "Organizer"
+  "teamCategory": "Organizer"
   },
-    {
+      {
     "id": "6001",
     "name": "Arnab Mukherjee",
     "company": {
@@ -48,6 +63,38 @@
     "type": "Core"
   },
   {
+    "id": "6001",
+    "name": "Soumyadtiya Bauri",
+    "company": {
+      "name": "GDG On Campus BCREC",
+      "designation": "Cloud Lead"
+    },
+    "community_title": "Community Member",
+    "image": "soumo.jpg",
+    "bio": "Code to Create ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/soumyaditya-bauri-0bb492205"
+    },
+    "type": "Core",
+    "teamCategory": "Web"
+  },
+  {
+    "id": "6002",
+    "name": "Nachiketa Pahari",
+    "company": {
+      "name": "Nshm knowledge campus",
+      "designation": "Student"
+    },
+    "community_title": "Community Member",
+    "image": "demo",
+    "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "type": "Core",
+    "teamCategory": "Web"
+  },
+  {
     "id": "6002",
     "name": "Amar Mahato",
     "company": {
@@ -60,7 +107,8 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/amar-mahato-7b915725b/"
     },
-    "type": "Graphics"
+    "type": "Core",
+    "teamCategory": "Design"
   },
   {
     "id": "6002",
@@ -75,7 +123,8 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/survi-mukherjee-8302272a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
-    "type": "Outreach"
+    "type": "Core",
+     "teamCategory": "Outreach"
   },
   {
     "id": "6002",
@@ -104,21 +153,6 @@
     "bio": "i run experiments ",
     "social": {
       "linkedin": "http://www.linkedin.com/in/subhajit-gorai"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6002",
-    "name": "Oishi Sen",
-    "company": {
-      "name": "CDAC",
-      "designation": "ML Intern"
-    },
-    "community_title": "Community Member",
-    "image": "oishi.jpg",
-    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/oishi-sen-29538222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     "type": "Core"
   },
