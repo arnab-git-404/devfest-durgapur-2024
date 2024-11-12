@@ -1,6 +1,22 @@
 
 [  {
     "id": "6002",
+    "name": "Aninda Saha",
+    "company": {
+      "name": "Confidential ",
+      "designation": "Sr. Security Analyst"
+    },
+    "community_title": "Community Member",
+    "image": "aninda.jpeg",
+    "bio": "Dynamic blend of expertise in cybersecurity and a passion for community building.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/contact-aninda/"
+    },
+    "type": "Core",
+  "teamCategory": "Organizer"
+  },
+    {
+    "id": "6002",
     "name": "Oishi Sen",
     "company": {
       "name": "CDAC",
@@ -11,22 +27,6 @@
     "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/oishi-sen-29538222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    },
-    "type": "Core",
-  "teamCategory": "Organizer"
-  },
-{
-    "id": "6002",
-    "name": "xyz",
-    "company": {
-      "name": "xyz",
-      "designation": "xyz"
-    },
-    "community_title": "Community Member",
-    "image": "",
-    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
-    "social": {
-      "linkedin": ""
     },
     "type": "Core",
   "teamCategory": "Organizer"
