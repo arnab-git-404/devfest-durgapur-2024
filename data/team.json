@@ -63,6 +63,22 @@
     "type": "Core",
     "teamCategory": "Web"
   },
+          {
+    "id": "6001",
+    "name": "Abhishek Dasgupta",
+    "company": {
+      "name": "Tap Health",
+      "designation": "GenAI"
+    },
+    "community_title": "Community Member",
+    "image": "abhishek.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "http://linkedin.in/abhishekdg1"
+    },
+    "type": "Core",
+    "teamCategory": "Web"
+  },
   {
     "id": "6001",
     "name": "Soumyadtiya Bauri",
