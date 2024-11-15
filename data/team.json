@@ -93,17 +93,17 @@
       "linkedin": "https://www.linkedin.com/in/soumyaditya-bauri-0bb492205"
     },
     "type": "Core",
-    "teamCategory": "Web"
+     "teamCategory": "Design"
   },
   {
     "id": "6002",
     "name": "Nachiketa Pahari",
     "company": {
-      "name": "Nshm knowledge campus",
-      "designation": "Student"
+      "name": "CodeNest",
+      "designation": "Web Lead"
     },
     "community_title": "Community Member",
-    "image": "demo",
+    "image": "Nachiketa.jpg",
     "bio": "Mern developer & passionate animator, persuing ug degree in CSE.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/nachiketa-pahari-6b1028257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
