@@ -74,19 +74,19 @@
       "stats": [
         {
           "name": "Speakers",
-          "value": "00"
+          "value": "10+"
         },
         {
           "name": "Participants",
-          "value": "00"
+          "value": "400+"
         },
         {
           "name": "Sessions",
-          "value": "00"
+          "value": "8+"
         },
         {
           "name": "Workshops",
-          "value": "00"
+          "value": "5+"
         }
       ]
     }
