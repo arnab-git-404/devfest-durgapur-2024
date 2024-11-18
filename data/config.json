@@ -14,7 +14,7 @@
   },
   "eventInfo": {
     "name": "DevFest Durgapur 2024",
-    "date": "Nov 24, 2024",
+    "date": "TBD",
     "time": "9 AM - 5 PM IST",
     "venue": {
       "address": "Durgapur",
@@ -31,25 +31,25 @@
     "stats": [
       {
         "name": "Speakers",
-        "value": "00",
+        "value": "10+",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Participants",
-        "value": "00",
+        "value": "400+",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "00",
+        "value": "8+",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
       {
         "name": "Workshops",
-        "value": "00",
+        "value": "5+",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
