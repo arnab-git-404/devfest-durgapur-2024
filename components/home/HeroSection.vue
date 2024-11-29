@@ -42,8 +42,8 @@
       <v-col md="6" sm="6" cols="12">
         <v-img
           alt="logo"
-          src="assets/img/"
-          lazy-src="assets/img/"
+          src="assets/img/hero.svg"
+          lazy-src="assets/img/hero.svg"
         ></v-img>
       </v-col>
     </v-row>
