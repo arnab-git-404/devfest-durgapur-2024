@@ -1,7 +1,26 @@
 [
   {
- 
-      
+      "category_name": "Sponsors",
+      "sponsors": [
+          {
+              "name":"Cyber A1",
+              "logo": "cyberA1.png"   
+          },
+          {
+              "name":"DSMS",
+              "logo": "dsms.png"   
+          }
+      ]
+  },
+  {
+      "category_name": "Comunity Partners",
+      "sponsors": [
+          {
+              "name":"Codenest",
+              "link": "https://codenestnshm.netlify.app/",
+              "logo": "codnest.png"   
+          }
+      ]
   }
 
 ]
