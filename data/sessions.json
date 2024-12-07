@@ -1,3 +1,167 @@
 [
-   { }   
+       {
+        "id": "1001",
+        "slide": "",
+        "title": "Registration",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "09:30 AM to 10:30 AM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "60",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1002",
+        "slide": "",
+        "title": "Opening Note",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "10:30 AM to 10:50 AM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "20",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1003",
+        "slide": "",
+        "title": "Inauguration",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "10:50 AM to 11:00 AM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "10",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1004",
+        "slide": "",
+        "title": "Cache me if you can",
+        "description": "Demystifying web Caching",
+        "track": "",
+        "link": "",
+        "time": "11:00 AM to 11:50 AM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "50",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Hacking Cloud for Fun & Profit.",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "11:50 AM to 12:40 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "50",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Dip, Dive and Swim with Android Developments",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "12:40 PM to 01:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "50",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1007",
+        "slide": "",
+        "title": "Lunch Break",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "01:30 PM to 02:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "60",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1008",
+        "slide": "",
+        "title": "Fun Activity",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "02:30 PM to 03:20 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "50",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1009",
+        "slide": "",
+        "title": "How to start from ZERO",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "03:20 PM to 04:10 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "50",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1010",
+        "slide": "",
+        "title": "Building Beautiful, Dynamic Apps with Server-Driven UI and Jetpack Compopse",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "04:10 PM to 04:50 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "40",
+        "speakers": [
+
+        ]
+    },
+    {
+        "id": "1011",
+        "slide": "",
+        "title": "Closing Note",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "04:50 PM to 05:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 8, 2024",
+        "timeDuration": "10",
+        "speakers": [
+
+        ]
+    }   
 ]
