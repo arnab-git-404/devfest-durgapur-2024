@@ -13,6 +13,7 @@
         </p>
         <p style="font-size: 70%" class="ma-0 google-font">
           {{ item.endTime }} 
+          </p>
       </v-col>
       <v-col
         class="my-0 schedule-details-white col-border-white"
