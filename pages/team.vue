@@ -77,7 +77,6 @@ const organizerTeam = computed(() => teamData.filter(member => member.teamCatego
 const webTeam = computed(() => teamData.filter(member => member.teamCategory === 'Web'));
 const designTeam = computed(() => teamData.filter(member => member.teamCategory === 'Design'));
 const outreachTeam = computed(() => teamData.filter(member => member.teamCategory === 'Outreach'));
-const ManagementTeam = computed(() => teamData.filter(member => member.teamCategory === 'Management'));
 
 definePageMeta({
   layout: false,
