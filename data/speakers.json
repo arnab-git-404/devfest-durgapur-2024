@@ -1,138 +1,47 @@
 [
   {
     "id": "101",
-    "name": "Full Name",
+    "name": "Narendra Nath Chatterjee ",
     "company": {
-      "name": "agprop",
-      "designation": "CTO"
+      "name": "Stockgro",
+      "designation": "Android Developer"
     },
-    "community_title": "Google Developer Expert for Firebase",
+    "community_title": "Google Developer Expert",
     "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "bio": "Your friendly neighborhood Android Dev Developer",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/narendra-nath-chatterjee-8a7651133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "web": "https://narendranathchatterjee.medium.com/android-development-as-a-beginner-in-2022-and-the-curse-of-choices-adb01596d21b"
     }
   },
   {
     "id": "102",
-    "name": "Full Name",
+    "name": "Agnibha Dutta",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Bugbase",
+      "designation": "Security Enginner & Traiger"
     },
-    "community_title": "Community Title",
+    "community_title": "Google Developer Expert",
     "image": "",
-    "bio": "Bio Section",
+    "bio": "My name is Agnibha Dutta, Cyber security trainer , mentor and part time bug-hunter. Right now I am a security Engineer and Chief Traiger at Bugbase . Also I am a cybersecurity instructor at Cybervie. I have hacked and secured more than 100 fortune companies so far and also been in hackerone leaderboard among top 50 hackers in India. What else is interesting about me is I am a MBBS student . ",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/y0gi/",
+      "twitter": "https://x.com/AnonY0gi",
     }
   },
-  {
+    {
     "id": "103",
-    "name": "Full Name",
+    "name": "Sanglap Mridha",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Altor Smart Mobility",
+      "designation": "Software Engineer"
     },
-    "community_title": "Community Title",
+    "community_title": "Google Developer Expert",
     "image": "",
-    "bio": "Bio Section",
+    "bio": "A passionate Software Engineer and community enthusiast. 2024 CSE graduate, currently working at Altor Smart Mobility (Shark Tank featured) as a Software Engineer. Previously lead the GDSC chapter at FIEM. ",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/sanglapmridha",
+      "twitter": "https://x.com/mythop_gg",
     }
   },
-  {
-    "id": "104",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "105",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "106",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "107",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "108",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  }
 ]
