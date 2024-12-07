@@ -43,16 +43,6 @@
       </v-row>
           
       
-      <!-- Management Team -->
-      <v-row v-if="outreachTeam.length">
-        <v-col md="12">
-          <h2>Management Team</h2>
-        </v-col>
-        <v-col md="2" sm="3" cols="6" v-for="(item, index) in ManagementTeam" :key="index">
-          <common-team-card :data="item" />
-        </v-col>
-      </v-row>
-      
       
       <!-- Outreach Team -->
       <v-row v-if="outreachTeam.length">
