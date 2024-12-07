@@ -33,16 +33,16 @@
   },
   {
     "id": "6002",
-    "name": "xyz",
+    "name": "Priyanka Singh",
     "company": {
-      "name": "xyz",
-      "designation": "xyz"
+      "name": "Accenture",
+      "designation": "Software Development Senior Analyst "
     },
     "community_title": "Community Member",
-    "image": "",
-    "bio": "A CSE undergrad who gets a brain freeze at times of endless coding. Love brewing ideas over a tub of fries and cold coffee.",
+    "image": "Priyanka.jpg",
+    "bio": "SAP ABAP Developer || Accenture || Ex-PwC India || GDG Durgapur Organizer.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/"
+      "linkedin": "https://www.linkedin.com/in/priyanka-singh-cse/"
     },
     "type": "Core",
   "teamCategory": "Organizer"
